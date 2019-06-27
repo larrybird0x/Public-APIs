@@ -131,6 +131,7 @@ APIs
 - [Exchange Rates API](https://blockchain.info/api/exchange_rates_api) - Market Prices and exchanges rates api.
 - [ShapeShift.io](https://shapeshift.io/) - Exchange between cryptocurrencies without an account.  Well documented API for easy use.
 - [Poloniex](https://poloniex.com/support/api/) - US based digital asset exchange
+- [Pocket Network](https://docs.pokt.network/docs) - A trustless API Layer, allowing easy access to any blockchain.
 
 ### Calendar
 
